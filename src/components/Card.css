@@ -1,0 +1,14 @@
+.cardimg {
+  height: 200px;
+  width: 180px;
+  margin: 2% 0 0 20%;
+}
+.card {
+  width: 300px;
+  font-size: 0.9rem;
+  background-color: pink;
+}
+.card-container {
+  gap: 1rem;
+  
+}
